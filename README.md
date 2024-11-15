@@ -55,17 +55,17 @@ Add pagination for large data sets
 
 ## Login Page
 
-![imgmern1](https://github.com/user-attachments/assets/4a792afe-b1e1-4d87-934b-596e0e28c711)
+![imgmern1](screenshots/imgmern1.png)
 
 ## Restaurants Insertion
 
-![imgmern2](https://github.com/user-attachments/assets/a35d1444-2ffc-4f72-bb83-5435e6408cef)
+![imgmern2](screenshots/imgmern2.png)
 
 ## Restaurants Lists
 
-![imgmern3](https://github.com/user-attachments/assets/a06ce4c5-cd12-4ecd-a343-72bfe64033b4)
+![imgmern3](screenshots/imgmern3.png)
 
-![imgmern4](https://github.com/user-attachments/assets/2b251b89-6866-46c3-b88c-39f9f4f36634)
+![imgmern4](screenshots/imgmern4.png)
 
 
 
