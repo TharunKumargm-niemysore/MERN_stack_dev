@@ -25,19 +25,17 @@ Restaurant Manager is a full-stack web application built using the MERN stack (M
 - **Authentication**: JSON Web Tokens (JWT)
 - **Styling**: CSS
 
-## Setup and Installation
+API Endpoints
 
-### Prerequisites
+GET /restaurants: Fetch all restaurants
+POST /insertRestaurants: Add a new restaurant
+PUT /updateRestaurant/:id: Update a restaurant by ID
+DELETE /deleteRestaurant/:id: Delete a restaurant by ID
 
-- Node.js and npm installed
-- MongoDB installed and running
-- Git installed
+Future Enhancements
+Implement search and filter functionality
+Integrate user roles with different access levels
+Add pagination for large data sets
 
-### Installation Steps
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/yourusername/restaurant-manager.git
-   cd restaurant-manager
 
