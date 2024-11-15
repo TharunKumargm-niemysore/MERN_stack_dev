@@ -1,62 +1,70 @@
+# Getting Started with Create React App
 
-# Restaurant Manager
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Restaurant Manager is a full-stack web application built using the MERN stack (MongoDB, Express, React, Node.js). This application provides an interactive dashboard to manage restaurant data, allowing users to add, edit, and delete restaurants.
+## Available Scripts
 
-## Features
+In the project directory, you can run:
 
-- **Add Restaurants**: Add a new restaurant to the database with details like name, type, location, rating, and top food.
-- **Edit Restaurants**: Modify details of an existing restaurant.
-- **Delete Restaurants**: Remove a restaurant from the database.
-- **Interactive Dashboard**: View a list of all restaurants and their details on a responsive, user-friendly dashboard.
+### `npm start`
 
-## Project Structure
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- **Frontend**: Built with React for a dynamic and responsive user interface.
-- **Backend**: Node.js and Express.js handle API requests.
-- **Database**: MongoDB stores restaurant information.
-- **Authorization**: Uses JSON Web Tokens (JWT) for secure access and actions on the application.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Technologies Used
+### `npm test`
 
-- **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT)
-- **Styling**: CSS
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## API Endpoints
+### `npm run build`
 
-GET /restaurants: Fetch all restaurants
-POST /insertRestaurants: Add a new restaurant
-PUT /updateRestaurant/:id: Update a restaurant by ID
-DELETE /deleteRestaurant/:id: Delete a restaurant by ID
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Future Enhancements
-Implement search and filter functionality
-Integrate user roles with different access levels
-Add pagination for large data sets
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Screen shots
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Login Page
-![imgmern1](https://github.com/user-attachments/assets/63dd230f-0b2b-4286-b4b2-938460568cf8)
+### `npm run eject`
 
-## Restarants insertion
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-![imgmern2](https://github.com/user-attachments/assets/85b69491-fdcf-4539-949b-5644b7057740)
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Restaurants Lists
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-![imgmern3](https://github.com/user-attachments/assets/5f453301-9f20-45c7-aee2-234e47915c9b)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-![imgmern4](https://github.com/user-attachments/assets/d2632795-1195-42f4-b0d7-b8fd7473ef70)
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
