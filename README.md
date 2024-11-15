@@ -25,17 +25,21 @@ Restaurant Manager is a full-stack web application built using the MERN stack (M
 - **Authentication**: JSON Web Tokens (JWT)
 - **Styling**: CSS
 
-API Endpoints
+## API Endpoints
 
 GET /restaurants: Fetch all restaurants
 POST /insertRestaurants: Add a new restaurant
 PUT /updateRestaurant/:id: Update a restaurant by ID
 DELETE /deleteRestaurant/:id: Delete a restaurant by ID
 
-Future Enhancements
+## Future Enhancements
 Implement search and filter functionality
 Integrate user roles with different access levels
 Add pagination for large data sets
+
+## Screen shots
+![imgmern1](https://github.com/user-attachments/assets/63dd230f-0b2b-4286-b4b2-938460568cf8)
+
 
 
 
