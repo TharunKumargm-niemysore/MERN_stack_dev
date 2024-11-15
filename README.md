@@ -38,7 +38,24 @@ Integrate user roles with different access levels
 Add pagination for large data sets
 
 ## Screen shots
+
+## Login Page
 ![imgmern1](https://github.com/user-attachments/assets/63dd230f-0b2b-4286-b4b2-938460568cf8)
+
+## Restarants insertion
+
+![imgmern2](https://github.com/user-attachments/assets/85b69491-fdcf-4539-949b-5644b7057740)
+
+## Restaurants Lists
+
+![imgmern3](https://github.com/user-attachments/assets/5f453301-9f20-45c7-aee2-234e47915c9b)
+
+![imgmern4](https://github.com/user-attachments/assets/d2632795-1195-42f4-b0d7-b8fd7473ef70)
+
+
+
+
+
 
 
 
